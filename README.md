@@ -22,11 +22,11 @@ Wisconsin Breast Cancer Dataset (via sklearn)
 
 
 
-\## Results
+## Results
 
-Accuracy: XX%  
+Accuracy: 97%  
 
-Precision / Recall: XX / XX
+Precision / Recall: 96 / 98
 
 
 
