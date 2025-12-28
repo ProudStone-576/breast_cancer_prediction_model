@@ -1,26 +1,24 @@
-\# Breast Cancer Prediction Model
+# Breast Cancer Prediction Model
 
 
 
-\## Objective
+## Objective
 
 Build a machine learning model to classify breast tumors as malignant or benign.
 
-
-
-\## Dataset
+## Dataset
 
 Wisconsin Breast Cancer Dataset (via sklearn)
 
 
 
-\## Methodology
+## Methodology
 
-\- Data preprocessing \& scaling
+- Data preprocessing \& scaling
 
-\- Logistic Regression / Random Forest
+- Logistic Regression / Random Forest
 
-\- Model evaluation using accuracy, precision, recall
+- Model evaluation using accuracy, precision, recall
 
 
 
